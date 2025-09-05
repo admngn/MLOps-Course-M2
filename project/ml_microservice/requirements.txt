@@ -8,3 +8,5 @@ mlflow
 pytest
 flake8
 ruff
+matplotlib
+joblib
