@@ -1,6 +1,11 @@
-fastapi==0.99.1
+fastapi
 pydantic
-transformers==4.30.2
+transformers
 uvicorn
 torch
 ipykernel
+ipywidgets
+datasets
+git-lfs
+huggingface_hub
+evaluate

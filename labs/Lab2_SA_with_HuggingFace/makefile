@@ -27,4 +27,4 @@ build-push:
 
 # add the command to build the docker image and push it the the ECR
 
-.PHONY:  init 
+.PHONY:  init
